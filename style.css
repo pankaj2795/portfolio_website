@@ -372,10 +372,10 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .bootstrap::before{
-    width: 80%;
+    width: 90%;
 }
 .skills-content .right .jquery::before{
-    width: 60%;
+    width: 80%;
 }
 
 /* teams section styling */
